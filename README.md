@@ -7,4 +7,7 @@
 2.修改一下预训练模型路径，创建 model_weight 文件夹
 
 3.执行 python main.py，即刻完成train，infer
+
+
+
 4.添加lora的finetune方法，执行 python lora_tuning.py 即可完成train，infer
